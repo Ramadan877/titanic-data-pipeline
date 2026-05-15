@@ -1,0 +1,16 @@
+# Data & artifacts
+*.csv
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+.cursor/
